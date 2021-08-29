@@ -22,4 +22,4 @@ hello world !
 
 Script forked from [MohammadaminRabieinezhad](https://github.com/mohammadaminrabieinezhad/hello-world)
 
-[Documention for developer](https://github.com/behzadDevelope/hello-world/doc)
+[Documention for developer](https://github.com/behzadDevelope/hello-world/tree/master/doc)
